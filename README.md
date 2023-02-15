@@ -2,7 +2,7 @@
 
 ## Features 
 
-### Visual Studio 2022
-### .Net6
-### Blazor Server App
-### Blazor Web Assembly App
+- Visual Studio 2022
+- .Net6
+- Blazor Server App
+- Blazor Web Assembly App
